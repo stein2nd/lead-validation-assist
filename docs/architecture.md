@@ -18,11 +18,11 @@ Output CSV
 
 2. モジュール責務
 
-* [オーケストレーション](src/main.py)
-* [パイプライン制御](src/processing/processor.py)
-* [KEN_ALL照合](src/processing/matcher.py)
-* [点数算出](src/processing/scoring.py)
-* [純粋関数](src/utils/normalizer.py)
+* [オーケストレーション](../src/main.py)
+* [パイプライン制御](../src/processing/processor.py)
+* [KEN_ALL照合](../src/processing/matcher.py)
+* [点数算出](../src/processing/scoring.py)
+* [純粋関数](../src/utils/normalizer.py)
 
 3. データフロー設計
 
